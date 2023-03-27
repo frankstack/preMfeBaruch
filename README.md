@@ -3,6 +3,8 @@
 
 Personal repository to save built-in functions useful for the PreMfe Seminars (NLA and ACFE, mostly). 
 
+Any inquiries or potential errors, please, contact me at fsyrosas@outlook.com
+
 **Important**: the "packages" .py files should be saved locally together to ensure functionality.
 
 

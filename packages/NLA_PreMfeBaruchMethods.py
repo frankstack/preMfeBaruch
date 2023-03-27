@@ -937,5 +937,9 @@ def diagonallyDominantTest(A, typeTest = "strict", orientation = "row", confmess
     return results
 
 def covariance_from_correlation(corr_matrix, list_stds):
+    """
+    Simple function to get covariance matrix from correlation matrix.
+    A list of std is required.
+    """
     diag_form_stds = np.diag(list_stds)
     return np.dot(np.dot(diag_form_stds, corr_matrix), diag_form_stds)

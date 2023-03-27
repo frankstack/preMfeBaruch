@@ -935,3 +935,7 @@ def diagonallyDominantTest(A, typeTest = "strict", orientation = "row", confmess
             
         results[eva] = [test, absSumNonDiag]
     return results
+
+def covariance_from_correlation(corr_matrix, list_stds):
+    diag_form_stds = np.diag(list_stds)
+    return np.dot(np.dot(diag_form_stds, corr_matrix), diag_form_stds)

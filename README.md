@@ -1,7 +1,16 @@
-# preMfeBaruch - Personalized Built-In Functions
+# Pre-MFE Baruch College | Personalized Built-In Functions
 
 
 Personal repository to save built-in functions useful for the PreMfe Seminars (NLA and ACFE, mostly). 
+
+Final marks:
+
+- ** Advanced Calculus with Financial Engineering Applications** (ACFE) | Final mark: 100/100 (Completed with distinction)
+
+- **Numerical Linear Algebra for Financial Engineering** (NLA) | Final mark: 88/100
+
+- ** Probability Theory for Financial Applications** (PTFA) | Final mark: 85/100
+
 
 Any inquiries or potential errors, please, contact the author at fsyrosas@outlook.com
 

@@ -1,9 +1,12 @@
 # Pre-MFE Baruch College | Personalized Built-In Functions
 
 
-Personal repository to save built-in functions useful for the PreMfe Seminars (NLA and ACFE, mostly). 
+Repository containing personalized built-in functions based on the books:
 
-Final marks:
+- _A Primer For The Mathematics Of Financial Engineering, Second Edition_ (2011) by Dan Stefanica.
+- _A Linear Algebra Primer for Financial Engineering: Covariance Matrices, Eigenvectors, OLS, and more_ (2014) by Dan Stefanica.
+
+Final marks at the Pre-MFE Seminar:
 
 - **Advanced Calculus with Financial Engineering Applications** (ACFE) | Final mark: 100/100 (Completed with distinction)
 
